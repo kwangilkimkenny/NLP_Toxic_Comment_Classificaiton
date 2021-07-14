@@ -1,1 +1,4 @@
-test
+jupyter==1.0.0
+Keras==2.1.6
+matplotlib==2.2.2
+pandas==0.22.0
